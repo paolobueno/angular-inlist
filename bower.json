@@ -1,6 +1,6 @@
 {
   "name": "angular-inlist",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "angular-inlist.js",
   "ignore": [
     "**/.*",
@@ -8,7 +8,6 @@
     "components"
   ],
   "dependencies": {
-    "underscore": "~1.4.4",
     "angular": "~1.0.7"
   }
 }
